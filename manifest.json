@@ -1,0 +1,4 @@
+{
+  "namespace": "max_mod",
+  "setup": "setup.mjs"
+}
